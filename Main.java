@@ -8,10 +8,11 @@ public class Main {
         Shape rhombus = new Rhombus();
         Shape quad = new Quad();
 
-        circle.figureName();
-        triangle.figureName();
-        trapezoid.figureName();
-        rhombus.figureName();
-        quad.figureName();
+
+        circle.figureShape();
+        triangle.figureShape();
+        trapezoid.figureShape();
+        rhombus.figureShape();
+        quad.figureShape();
     }
 }

@@ -3,7 +3,7 @@ package JavaCore.Module7;
 public class Quad extends Shape{
 
     @Override
-    void figureName() {
+    void figureShape() {
         System.out.println("Quad");
     }
 }
