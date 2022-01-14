@@ -1,4 +1,4 @@
-package JavaCore.Module7;
+package Module7;
 
 public class Rhombus extends Shape{
     @Override
