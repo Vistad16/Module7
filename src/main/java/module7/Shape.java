@@ -1,4 +1,4 @@
-package Module7;
+package module7;
 
 public abstract class Shape {
 

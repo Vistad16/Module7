@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java5" />
-        <module name="Module7" />
         <module name="temp" />
+        <module name="module7" />
         <module name="JavaCore" />
       </profile>
     </annotationProcessing>
